@@ -1,6 +1,6 @@
-package practice01;
+package practice_01;
 
-public class Practice_01 {
+public class HelloWorld {
 
 
         /*
