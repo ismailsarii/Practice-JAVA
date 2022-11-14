@@ -2,7 +2,7 @@ package practice_02;
 
 import java.util.Scanner;
 
-public class DortIslem {
+public class DortIslem_01 {
 
 
 
