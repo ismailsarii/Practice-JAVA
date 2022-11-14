@@ -1,6 +1,4 @@
-package practice_01;
-
-public class HelloWorld {
+public class HelloWord {
 
 
         /*
