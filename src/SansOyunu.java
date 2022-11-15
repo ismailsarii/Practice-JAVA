@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class ŞansOyunu {
+public class SansOyunu {
 
     public static void main(String[] args) {
 
