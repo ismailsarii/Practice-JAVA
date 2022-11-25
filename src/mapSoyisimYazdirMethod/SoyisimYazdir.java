@@ -1,4 +1,4 @@
-package MapSoyisimYazdirMethod;
+package mapSoyisimYazdirMethod;
 
 import java.util.Map;
 
