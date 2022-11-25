@@ -19,7 +19,7 @@ public class MapDepo {
 
     }
 
-    public static String soyisimyazdir2(Map<Integer, String> yeni,int key) {
+    public static String soyisimyazdir(Map<Integer, String> yeni,int key) {
 
 
         String yeni2=yeni.get(key).replaceFirst("-","1");

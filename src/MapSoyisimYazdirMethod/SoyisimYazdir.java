@@ -9,7 +9,7 @@ public class SoyisimYazdir {
         Map<Integer,String> yeni = MapDepo.ornekMapOlustur();
 
         System.out.println(yeni);
-        System.out.println(MapDepo.soyisimyazdir2(yeni, 103));
+        System.out.println(MapDepo.soyisimyazdir(yeni, 103));
 
 
     }
