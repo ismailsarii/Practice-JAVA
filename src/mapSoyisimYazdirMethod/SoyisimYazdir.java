@@ -8,8 +8,10 @@ public class SoyisimYazdir {
 
         Map<Integer,String> yeni = MapDepo.ornekMapOlustur();
 
-        System.out.println(yeni);
-        System.out.println(MapDepo.soyisimyazdir(yeni, 103));
+        int ogrenciNo= 105;
+        String soyisim=MapDepo.soyisimyazdir(yeni,ogrenciNo);
+
+        System.out.println(ogrenciNo+"'lu ogrencinin soyismi : "+soyisim);
 
 
     }
