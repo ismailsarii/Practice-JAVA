@@ -20,7 +20,7 @@ public class SayininUssunuHesapla {
         for (int i = 1; i <=girilenUs ; i++) {
             sonuc*=girilenSayi;
         }
-        System.out.println(sonuc);
+        System.out.println(girilenSayi+" üzeri "+girilenUs+" = "+sonuc);
 
     }
 }
